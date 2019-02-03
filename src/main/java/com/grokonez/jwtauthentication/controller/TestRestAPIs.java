@@ -23,7 +23,7 @@ public class TestRestAPIs {
 
 	@GetMapping("/user")
 	public User getUser(){
-		long id = 123;
+		long id = 1;
 		User user = userRepository.getOne(id);
 		return user;
 	}
