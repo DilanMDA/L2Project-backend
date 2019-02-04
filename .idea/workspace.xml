@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ddf241d-4654-4555-9c56-cbd594a2ef94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/SpringBootJwtAuthenticationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/SpringBootJwtAuthenticationApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/AuthRestAPIs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/AuthRestAPIs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/EventCreationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/EventCreationController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/JoinEventController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/JoinEventController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/MemberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/MemberController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/PaymentConroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/PaymentConroller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/RatingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/RatingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/ReportRequestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/controller/ReportRequestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/request/LoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/request/LoginForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/request/SignUpForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/request/SignUpForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/response/JwtResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/response/JwtResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/response/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/response/Response.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/response/ResponseMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/message/response/ResponseMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/EventCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/EventCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/EventRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/EventRate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/JoinEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/JoinEvent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/Payment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/ReportRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/ReportRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/RoleName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/RoleName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/SystemRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/SystemRate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/repository/EventRateRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/repository/EventRateRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/repository/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/repository/RoleRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/jwt/JwtAuthEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/jwt/JwtAuthEntryPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/jwt/JwtAuthTokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/jwt/JwtAuthTokenFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/jwt/JwtProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/jwt/JwtProvider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/services/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/services/UserDetailsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/services/UserPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/security/services/UserPrinciple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/services/EmailService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/services/EmailService$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/services/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/grokonez/jwtauthentication/services/EmailService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/RatingController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="714">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/repository/EventRateRepository.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/PaymentConroller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -394,7 +359,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549296824000" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549297225341" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ojob.lk-Backend-v2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -493,12 +458,20 @@
       <workItem from="1549192363737" duration="32000" />
       <workItem from="1549193902427" duration="2653000" />
       <workItem from="1549199808984" duration="3232000" />
-      <workItem from="1549261377053" duration="3579000" />
+      <workItem from="1549261377053" duration="3979000" />
     </task>
+    <task id="LOCAL-00001" summary="new back end">
+      <created>1549296883069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549296883070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92528000" />
+    <option name="totallyTimeSpent" value="92928000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,7 +528,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="new back end" />
+    <option name="LAST_COMMIT_MESSAGE" value="new back end" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.0.8.RELEASE/spring-security-config-5.0.8.RELEASE.jar!/org/springframework/security/config/annotation/authentication/configurers/userdetails/AbstractDaoAuthenticationConfigurer.class">
@@ -848,16 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/PaymentConroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/model/Payment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-646">
@@ -951,8 +915,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/RatingController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="714">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grokonez/jwtauthentication/controller/PaymentConroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
